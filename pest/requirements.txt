@@ -1,0 +1,12 @@
+flask
+keras
+tensorflow  # Use a stable release version
+numpy
+matplotlib
+Werkzeug
+azure-cli-core
+azure-mgmt-containerregistry
+azure-mgmt-resource
+azureml-contrib-iot
+azureml-core
+
