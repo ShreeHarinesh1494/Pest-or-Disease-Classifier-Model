@@ -3,6 +3,12 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/main/VisualStudio.gitignore
 
+# Ignore image files
+*.jpg
+*.jpeg
+*.png
+*.webp
+
 # User-specific files
 *.rsuser
 *.suo
